@@ -90,3 +90,14 @@ font-weight: 600;
 font-size: 20px;
 margin-left: -50px;
 }
+.w1{
+    color: white;
+    font-weight: 900;
+    font-size: 46px; 
+    
+}
+.w2{
+    color: red;
+    font-weight: 900;
+    font-size: 46px; 
+}
