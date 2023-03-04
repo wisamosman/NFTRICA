@@ -38,24 +38,36 @@
 .q6{
     color: white;
     font-weight: 900;
-    font-size: 40px;
+    font-size: 60px;
+    padding-top: 90px;
 }
 .q7{
     color: red;
     font-weight: 900;
-    font-size: 40px;
+    font-size: 60px;
 }
 .q8{
     color: white;
     font-weight: 600;
+    font-size: 20px;
 }
 .q9{
-color: #410606;
+color: #ACAC86;
 font-weight: 600;
+font-size: 20px;
 }
 .q10{
     padding: 15px 30px;
     color: black;
     background-color: white;
     border-radius: 15px;
+    text-decoration: none;
+    font-weight: 800;
+    font-size: 20px;
+}
+.q11{
+    margin-top: 105px;
+}
+.q12{
+    margin-left: 70px;
 }
