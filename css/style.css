@@ -35,3 +35,27 @@
 .navbar-nav{
     margin-left: 100px;
 }
+.q6{
+    color: white;
+    font-weight: 900;
+    font-size: 40px;
+}
+.q7{
+    color: red;
+    font-weight: 900;
+    font-size: 40px;
+}
+.q8{
+    color: white;
+    font-weight: 600;
+}
+.q9{
+color: #410606;
+font-weight: 600;
+}
+.q10{
+    padding: 15px 30px;
+    color: black;
+    background-color: white;
+    border-radius: 15px;
+}
