@@ -1,7 +1,7 @@
 .q1{
     background-image: url(https://nftrica.iamabdus.com/v1.0/wp-content/uploads/2022/05/bg-img-01.png);
     background-color: black;
-    padding-top: 25px;
+    padding-top: ;
 }
 .nav-link{
     color: white;
@@ -11,6 +11,9 @@
 .navbar{
     padding-left: 50px;
     padding-right: 50px;
+    background-color: #1B1B1B;
+    padding-top: 40px;
+    padding-bottom: 15px;
 }
 .q3{
     color: black;
